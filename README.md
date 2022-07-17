@@ -1,6 +1,11 @@
 # flutter_aync_future_example
 
-A new Flutter project.
+https://www.codexpedia.com/flutter/flutter-make-api-call-to-load-data-via-futurebuilder/
+
+<img src="https://github.com/codexpedia/flutter_aync_future_example/blob/main/captures/1.png" width="250" height="420" />
+
+
+
 
 ## Getting Started
 
